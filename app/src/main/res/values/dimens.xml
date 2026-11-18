@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="tamano_titulo">36sp</dimen>
+    <dimen name="margen_superior_titulo">72dp</dimen>
+    <dimen name="ancho_boton">150dp</dimen>
+    <dimen name="alto_boton">48dp</dimen>
+    <dimen name="tamano_texto_boton">16sp</dimen>
+</resources>
